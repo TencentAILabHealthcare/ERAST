@@ -1,0 +1,508 @@
+{
+  "Q9UU93": [
+    {
+      "aln_start": 26,
+      "aln_end": 47,
+      "env_start": 26,
+      "env_end": 49,
+      "hmm_acc": "PF13202.12",
+      "hmm_name": "EF-hand_5",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 22,
+      "hmm_length": 25,
+      "score": 20.3,
+      "evalue": 0.00035,
+      "significance": 1,
+      "clan": "CL0220"
+    },
+    {
+      "aln_start": 92,
+      "aln_end": 160,
+      "env_start": 92,
+      "env_end": 161,
+      "hmm_acc": "PF13499.12",
+      "hmm_name": "EF-hand_7",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 66,
+      "hmm_length": 67,
+      "score": 53.1,
+      "evalue": 4e-14,
+      "significance": 1,
+      "clan": "CL0220"
+    }
+  ],
+  "B1IKA6": [
+    {
+      "aln_start": 3,
+      "aln_end": 96,
+      "env_start": 1,
+      "env_end": 97,
+      "hmm_acc": "PF02001.22",
+      "hmm_name": "DUF134",
+      "type": "Family",
+      "hmm_start": 6,
+      "hmm_end": 97,
+      "hmm_length": 98,
+      "score": 79.4,
+      "evalue": 3.1e-22,
+      "significance": 1,
+      "clan": "CL0123"
+    }
+  ],
+  "Q9H6K1": [
+    {
+      "aln_start": 26,
+      "aln_end": 65,
+      "env_start": 25,
+      "env_end": 68,
+      "hmm_acc": "PF14555.12",
+      "hmm_name": "UBA_4",
+      "type": "Domain",
+      "hmm_start": 2,
+      "hmm_end": 39,
+      "hmm_length": 43,
+      "score": 38.8,
+      "evalue": 8.2e-10,
+      "significance": 1,
+      "clan": "CL0214"
+    },
+    {
+      "aln_start": 82,
+      "aln_end": 179,
+      "env_start": 82,
+      "env_end": 179,
+      "hmm_acc": "PF16158.11",
+      "hmm_name": "N_BRCA1_IG",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 108,
+      "hmm_length": 108,
+      "score": 111.3,
+      "evalue": 4.3e-32,
+      "significance": 1,
+      "clan": "CL0159"
+    }
+  ],
+  "Q9HNR1": [
+    {
+      "aln_start": 27,
+      "aln_end": 120,
+      "env_start": 24,
+      "env_end": 123,
+      "hmm_acc": "PF21003.3",
+      "hmm_name": "NucS_N",
+      "type": "Domain",
+      "hmm_start": 4,
+      "hmm_end": 97,
+      "hmm_length": 100,
+      "score": 79.4,
+      "evalue": 2.1e-22,
+      "significance": 1,
+      "clan": "CL0266"
+    },
+    {
+      "aln_start": 130,
+      "aln_end": 233,
+      "env_start": 129,
+      "env_end": 249,
+      "hmm_acc": "PF01939.22",
+      "hmm_name": "NucS_C",
+      "type": "Domain",
+      "hmm_start": 2,
+      "hmm_end": 107,
+      "hmm_length": 124,
+      "score": 73.0,
+      "evalue": 2.8e-20,
+      "significance": 1,
+      "clan": "CL0236"
+    }
+  ],
+  "P14231": [
+    {
+      "aln_start": 7,
+      "aln_end": 283,
+      "env_start": 7,
+      "env_end": 283,
+      "hmm_acc": "PF00287.24",
+      "hmm_name": "Na_K-ATPase",
+      "type": "Family",
+      "hmm_start": 1,
+      "hmm_end": 284,
+      "hmm_length": 284,
+      "score": 370.2,
+      "evalue": 7.5e-111,
+      "significance": 1,
+      "clan": "CL0159"
+    }
+  ],
+  "Q49KZ7": [
+    {
+      "aln_start": 73,
+      "aln_end": 103,
+      "env_start": 72,
+      "env_end": 105,
+      "hmm_acc": "PF00515.34",
+      "hmm_name": "TPR_1",
+      "type": "Repeat",
+      "hmm_start": 2,
+      "hmm_end": 32,
+      "hmm_length": 34,
+      "score": 35.9,
+      "evalue": 5.7e-09,
+      "significance": 1,
+      "clan": "CL0020"
+    }
+  ],
+  "Q9MTP0": [
+    {
+      "aln_start": 73,
+      "aln_end": 103,
+      "env_start": 72,
+      "env_end": 105,
+      "hmm_acc": "PF00515.34",
+      "hmm_name": "TPR_1",
+      "type": "Repeat",
+      "hmm_start": 2,
+      "hmm_end": 32,
+      "hmm_length": 34,
+      "score": 35.9,
+      "evalue": 5.7e-09,
+      "significance": 1,
+      "clan": "CL0020"
+    }
+  ],
+  "P45015": [
+    {
+      "aln_start": 86,
+      "aln_end": 183,
+      "env_start": 85,
+      "env_end": 184,
+      "hmm_acc": "PF13247.11",
+      "hmm_name": "Fer4_11",
+      "type": "Domain",
+      "hmm_start": 2,
+      "hmm_end": 99,
+      "hmm_length": 100,
+      "score": 80.9,
+      "evalue": 8.4e-23,
+      "significance": 1,
+      "clan": "CL0344"
+    }
+  ],
+  "P54709": [
+    {
+      "aln_start": 6,
+      "aln_end": 273,
+      "env_start": 6,
+      "env_end": 273,
+      "hmm_acc": "PF00287.24",
+      "hmm_name": "Na_K-ATPase",
+      "type": "Family",
+      "hmm_start": 1,
+      "hmm_end": 284,
+      "hmm_length": 284,
+      "score": 337.0,
+      "evalue": 1e-100,
+      "significance": 1,
+      "clan": "CL0159"
+    }
+  ],
+  "Q6D4W3": [
+    {
+      "aln_start": 44,
+      "aln_end": 75,
+      "env_start": 44,
+      "env_end": 76,
+      "hmm_acc": "PF04060.18",
+      "hmm_name": "FeS",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 32,
+      "hmm_length": 33,
+      "score": 47.3,
+      "evalue": 1.7e-12,
+      "significance": 1,
+      "clan": "CL0344"
+    },
+    {
+      "aln_start": 110,
+      "aln_end": 164,
+      "env_start": 110,
+      "env_end": 164,
+      "hmm_acc": "PF14697.11",
+      "hmm_name": "Fer4_21",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 59,
+      "hmm_length": 59,
+      "score": 71.5,
+      "evalue": 6.3e-20,
+      "significance": 1,
+      "clan": "CL0344"
+    }
+  ],
+  "P83332": [
+    {
+      "aln_start": 31,
+      "aln_end": 246,
+      "env_start": 31,
+      "env_end": 246,
+      "hmm_acc": "PF00314.23",
+      "hmm_name": "Thaumatin",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 209,
+      "hmm_length": 209,
+      "score": 269.6,
+      "evalue": 2.4e-80,
+      "significance": 1,
+      "clan": "CL0872"
+    }
+  ],
+  "A5F2W6": [
+    {
+      "aln_start": 1,
+      "aln_end": 67,
+      "env_start": 1,
+      "env_end": 69,
+      "hmm_acc": "PF13411.12",
+      "hmm_name": "MerR_1",
+      "type": "Family",
+      "hmm_start": 1,
+      "hmm_end": 66,
+      "hmm_length": 69,
+      "score": 65.9,
+      "evalue": 3.5e-18,
+      "significance": 1,
+      "clan": "CL0123"
+    }
+  ],
+  "P0C6D2": [
+    {
+      "aln_start": 1,
+      "aln_end": 67,
+      "env_start": 1,
+      "env_end": 69,
+      "hmm_acc": "PF13411.12",
+      "hmm_name": "MerR_1",
+      "type": "Family",
+      "hmm_start": 1,
+      "hmm_end": 66,
+      "hmm_length": 69,
+      "score": 65.9,
+      "evalue": 3.5e-18,
+      "significance": 1,
+      "clan": "CL0123"
+    }
+  ],
+  "Q97YX6": [
+    {
+      "aln_start": 9,
+      "aln_end": 102,
+      "env_start": 8,
+      "env_end": 103,
+      "hmm_acc": "PF01870.24",
+      "hmm_name": "Hjc",
+      "type": "Family",
+      "hmm_start": 2,
+      "hmm_end": 92,
+      "hmm_length": 93,
+      "score": 112.6,
+      "evalue": 8.9e-33,
+      "significance": 1,
+      "clan": "CL0236"
+    }
+  ],
+  "Q91WD9": [
+    {
+      "aln_start": 111,
+      "aln_end": 177,
+      "env_start": 108,
+      "env_end": 179,
+      "hmm_acc": "PF13499.12",
+      "hmm_name": "EF-hand_7",
+      "type": "Domain",
+      "hmm_start": 5,
+      "hmm_end": 65,
+      "hmm_length": 67,
+      "score": 40.0,
+      "evalue": 5e-10,
+      "significance": 1,
+      "clan": "CL0220"
+    },
+    {
+      "aln_start": 254,
+      "aln_end": 267,
+      "env_start": 249,
+      "env_end": 270,
+      "hmm_acc": "PF13202.12",
+      "hmm_name": "EF-hand_5",
+      "type": "Domain",
+      "hmm_start": 9,
+      "hmm_end": 22,
+      "hmm_length": 25,
+      "score": 15.7,
+      "evalue": 0.011,
+      "significance": 1,
+      "clan": "CL0220"
+    }
+  ],
+  "P49786": [
+    {
+      "aln_start": 83,
+      "aln_end": 154,
+      "env_start": 82,
+      "env_end": 156,
+      "hmm_acc": "PF00364.28",
+      "hmm_name": "Biotin_lipoyl",
+      "type": "Domain",
+      "hmm_start": 2,
+      "hmm_end": 71,
+      "hmm_length": 73,
+      "score": 77.7,
+      "evalue": 5.8e-22,
+      "significance": 1,
+      "clan": "CL0105"
+    }
+  ],
+  "P12670": [
+    {
+      "aln_start": 28,
+      "aln_end": 226,
+      "env_start": 28,
+      "env_end": 226,
+      "hmm_acc": "PF00314.23",
+      "hmm_name": "Thaumatin",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 209,
+      "hmm_length": 209,
+      "score": 208.6,
+      "evalue": 1.1e-61,
+      "significance": 1,
+      "clan": "CL0872"
+    }
+  ],
+  "P94777": [
+    {
+      "aln_start": 21,
+      "aln_end": 104,
+      "env_start": 21,
+      "env_end": 104,
+      "hmm_acc": "PF02749.22",
+      "hmm_name": "QRPTase_N",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 82,
+      "hmm_length": 82,
+      "score": 66.3,
+      "evalue": 2.9e-18,
+      "significance": 1,
+      "clan": "CL0105"
+    },
+    {
+      "aln_start": 111,
+      "aln_end": 276,
+      "env_start": 106,
+      "env_end": 277,
+      "hmm_acc": "PF01729.25",
+      "hmm_name": "QRPTase_C",
+      "type": "Domain",
+      "hmm_start": 6,
+      "hmm_end": 168,
+      "hmm_length": 169,
+      "score": 109.0,
+      "evalue": 2.7e-31,
+      "significance": 1,
+      "clan": "CL0036"
+    }
+  ],
+  "Q9SZH0": [
+    {
+      "aln_start": 7,
+      "aln_end": 106,
+      "env_start": 5,
+      "env_end": 107,
+      "hmm_acc": "PF03179.20",
+      "hmm_name": "V-ATPase_G",
+      "type": "Coiled-coil",
+      "hmm_start": 3,
+      "hmm_end": 104,
+      "hmm_length": 105,
+      "score": 103.1,
+      "evalue": 1.5e-29,
+      "significance": 1,
+      "clan": "CL0255"
+    }
+  ],
+  "P28722": [
+    {
+      "aln_start": 21,
+      "aln_end": 135,
+      "env_start": 21,
+      "env_end": 136,
+      "hmm_acc": "PF00345.26",
+      "hmm_name": "PapD_N",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 125,
+      "hmm_length": 126,
+      "score": 84.0,
+      "evalue": 1.1e-23,
+      "significance": 1,
+      "clan": "CL0159"
+    }
+  ],
+  "Q9FYB7": [
+    {
+      "aln_start": 13,
+      "aln_end": 74,
+      "env_start": 13,
+      "env_end": 75,
+      "hmm_acc": "PF00076.28",
+      "hmm_name": "RRM_1",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 69,
+      "hmm_length": 70,
+      "score": 54.1,
+      "evalue": 1.4e-14,
+      "significance": 1,
+      "clan": "CL0221"
+    },
+    {
+      "aln_start": 100,
+      "aln_end": 115,
+      "env_start": 99,
+      "env_end": 116,
+      "hmm_acc": "PF00098.28",
+      "hmm_name": "zf-CCHC",
+      "type": "Domain",
+      "hmm_start": 2,
+      "hmm_end": 17,
+      "hmm_length": 18,
+      "score": 29.7,
+      "evalue": 6.1e-07,
+      "significance": 1,
+      "clan": "CL0511"
+    },
+    {
+      "aln_start": 121,
+      "aln_end": 138,
+      "env_start": 121,
+      "env_end": 138,
+      "hmm_acc": "PF00098.28",
+      "hmm_name": "zf-CCHC",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 18,
+      "hmm_length": 18,
+      "score": 23.3,
+      "evalue": 6.2e-05,
+      "significance": 1,
+      "clan": "CL0511"
+    }
+  ]
+}

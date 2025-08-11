@@ -1,0 +1,88 @@
+{
+  "Q9UU93": [
+    {
+      "aln_start": 26,
+      "aln_end": 47,
+      "env_start": 26,
+      "env_end": 49,
+      "hmm_acc": "PF13202.12",
+      "hmm_name": "EF-hand_5",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 22,
+      "hmm_length": 25,
+      "score": 20.3,
+      "evalue": 0.00035,
+      "significance": 1,
+      "clan": "CL0220"
+    },
+    {
+      "aln_start": 92,
+      "aln_end": 160,
+      "env_start": 92,
+      "env_end": 161,
+      "hmm_acc": "PF13499.12",
+      "hmm_name": "EF-hand_7",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 66,
+      "hmm_length": 67,
+      "score": 53.1,
+      "evalue": 4e-14,
+      "significance": 1,
+      "clan": "CL0220"
+    }
+  ],
+  "B1IKA6": [
+    {
+      "aln_start": 3,
+      "aln_end": 96,
+      "env_start": 1,
+      "env_end": 97,
+      "hmm_acc": "PF02001.22",
+      "hmm_name": "DUF134",
+      "type": "Family",
+      "hmm_start": 6,
+      "hmm_end": 97,
+      "hmm_length": 98,
+      "score": 79.4,
+      "evalue": 3.1e-22,
+      "significance": 1,
+      "clan": "CL0123"
+    }
+  ],
+  "Q9H6K1": [
+    {
+      "aln_start": 26,
+      "aln_end": 65,
+      "env_start": 25,
+      "env_end": 68,
+      "hmm_acc": "PF14555.12",
+      "hmm_name": "UBA_4",
+      "type": "Domain",
+      "hmm_start": 2,
+      "hmm_end": 39,
+      "hmm_length": 43,
+      "score": 38.8,
+      "evalue": 8.2e-10,
+      "significance": 1,
+      "clan": "CL0214"
+    },
+    {
+      "aln_start": 82,
+      "aln_end": 179,
+      "env_start": 82,
+      "env_end": 179,
+      "hmm_acc": "PF16158.11",
+      "hmm_name": "N_BRCA1_IG",
+      "type": "Domain",
+      "hmm_start": 1,
+      "hmm_end": 108,
+      "hmm_length": 108,
+      "score": 111.3,
+      "evalue": 4.3e-32,
+      "significance": 1,
+      "clan": "CL0159"
+    }
+  ]
+}
