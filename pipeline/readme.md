@@ -83,7 +83,7 @@ Sort the target proteins based on the homology relationships.
 python predict.py --fa_q QUERY_FASTA --fa_t TARGET_FASTA \
                   --emb_q QUERY_EMBEDDING --emb_t TARGET_EMBEDDING \
                   --pfam_q QUERY_PFAM --pfam_t TARGET_PFAM \
-                  --out OUTPUT_FILE
+                  --out OUTPUT_FILE --reranker RERANKER_PATH
 ```
 **Parameters:**:
 - --fa_q: Query protein sequences (FASTA format)
@@ -93,3 +93,4 @@ python predict.py --fa_q QUERY_FASTA --fa_t TARGET_FASTA \
 - --pfam_q: Query Pfam annotations (JSON format)
 - --pfam_t: Target Pfam annotations (JSON format)
 - --out: Path to output prediction file
+- --reranker (Optional) Path to the re-ranking model
