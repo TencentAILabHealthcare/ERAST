@@ -32,6 +32,8 @@ You will need to have a local copy of the Pfam's HMMs library. If you are using 
 	```
 	hmmpress pfamdb/Pfam-A.hmm
 	```
+## Models
+It is recommended to first download the esm2_t33_650M_UR50D model weights from [huggingface](https://huggingface.co/facebook/esm2_t33_650M_UR50D). For ERAST Homology Search Model (EHSM), the checkpoint is available on zenodo: https://zenodo.org/records/16879060.
 ## Quick Usage
 ### Input
 Place your query sequence file in the example/ directory and name it q.fa;
