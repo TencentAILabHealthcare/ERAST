@@ -1,5 +1,6 @@
 # ERAST: Efficient Retrieval-Augmented Search Tool  
-
+### This repository contains code for training ERAST and running its localized version.
+---
 **ERAST** is a high-performance framework for large-scale **homology searches** across ~**1 billion** biological sequences — hosted in the largest vector database to date.  
 By integrating **state-of-the-art large language models** with **vector database technology**, ERAST delivers **both speed and precision** in detecting homologous biological sequences.  
 
@@ -9,8 +10,7 @@ By integrating **state-of-the-art large language models** with **vector database
 - **Scalable performance** — Efficiently handles billion-scale datasets without compromising search quality.  
 
 ---
-### This repository contains code for training ERAST and running its localized version.
----
+
 ## Repository Structure
 
 ### 1. Training Pipeline  
