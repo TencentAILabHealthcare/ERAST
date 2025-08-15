@@ -15,11 +15,11 @@ By integrating **state-of-the-art large language models** with **vector database
 
 ### 1. Training Pipeline  
 Train your own ERAST models:  
-[`erast_training`](https://github.com/TencentAILabHealthcare/ERAST/tree/main/erast_training)  
+[`ERAST training`](https://github.com/TencentAILabHealthcare/ERAST/tree/main/erast_training)  
 
 ### 2. Localized Version  
 Run ERAST locally for custom datasets:  
-[`pipeline`](https://github.com/TencentAILabHealthcare/ERAST/tree/main/pipeline)  
+[`Pipeline`](https://github.com/TencentAILabHealthcare/ERAST/tree/main/pipeline)  
 
 ---
 
